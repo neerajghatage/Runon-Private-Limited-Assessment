@@ -21,7 +21,7 @@ The Drag-and-Drop Website Builder is a user-friendly web application designed to
 
 To run the Drag-and-Drop Website Builder React app locally, follow these instructions:
 
-1. **Clone the Repository**: Clone this repository to your local machine using `git clone https://github.com/your/repository.git`.
+1. **Clone the Repository**: Clone this repository to your local machine using `git clone https://github.com/neerajghatage/Runon-Private-Limited-Assessment`.
 2. **Navigate to the Directory**: Enter the project directory by running `cd drag-and-drop-website-builder`.
 3. **Install Dependencies**: Install the necessary dependencies using `npm install`.
 4. **Start the Development Server**: Launch the development server using `npm start`.
